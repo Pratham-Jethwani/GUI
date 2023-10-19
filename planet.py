@@ -17,12 +17,6 @@ drop.grid(row=1,column=0)
 
 
 
-    
-    
-
-
-
-
 label3=Label(a,text="Mass allowance")
 label4=Label(a,text="Crew: 100 Kg")
 label5=Label(a,text="Mission Specialist: 150 Kg")
@@ -83,22 +77,6 @@ p3mass=tk.Label(a,textvariable=p3_available)
 p4mass=tk.Label(a,textvariable=p4_available)
 p5mass=tk.Label(a,textvariable=p5_available)
 p6mass=tk.Label(a,textvariable=p6_available)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
